@@ -1,0 +1,17 @@
+26/01/17 HOJA DE DATOS
+INTOSCIO: oscilador interno, no hay necesidad de póner oscilador externo.
+bit a;
+char b='k'
+char x = 0b01111000;
+int d = 123;
+int e = -43;
+unsigned int f =456;
+unsigned int g =-14; //esto no se puede porque es variable sin signo
+short h = 0x43; //short solo va de -128 a 127
+unsigned short i = 0x16; //no puedo declarar valores negativos
+long j = 1436789;
+unsigned long = 3753159;
+//variables globales
+void main(){
+int z = 954; //variable local
+}
